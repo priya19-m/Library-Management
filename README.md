@@ -24,6 +24,8 @@ The system is designed to:
   6. Server: Apache Tomcat
 
 ## Project Structure:
+
+``` plaintext
 LibraryManagement
 ├── src/main/java
 │   └── com.wipro.book
@@ -49,6 +51,7 @@ LibraryManagement
 │   ├── Invalid.html
 │   └── Failure.html
 └── build
+```
 
 ## Description of Packages:
    1. com.wipro.book.bean
